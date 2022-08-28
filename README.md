@@ -11,3 +11,6 @@ To access productList use below method to access in your script -
 ```javascript
 chatPlugin.getProductsList();
 ```
+
+See [demo here](https://varungupta2671.github.io/cdn/)
+
